@@ -10,7 +10,7 @@ export const products = [
   },
   {
     id: 88,
-    title: "TC Reusable Silicone Magic Washing Gloves",
+    title: "AC Reusable Silicone Magic Washing Gloves",
     price: 29,
     quantity: 2,
     total: 58,
