@@ -1,8 +1,8 @@
-import MyCart from "./MyCart";
+import CricScore from "./CricScore";
 function App() {
   return (
     <div>
-      <MyCart />
+      <CricScore />
     </div>
   );
 }
