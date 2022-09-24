@@ -1,8 +1,8 @@
-import CricScore from "./CricScore";
+import ChangeColours from "./ChangeColours";
 function App() {
   return (
-    <div>
-      <CricScore />
+    <div style={{ width: "90%", margin: "0 auto" }}>
+      <ChangeColours />
     </div>
   );
 }
