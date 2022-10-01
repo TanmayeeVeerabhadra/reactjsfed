@@ -1,8 +1,8 @@
-import ChangeColours from "./ChangeColours";
+import DigitalClock from "./DigitalClock";
 function App() {
   return (
     <div style={{ width: "90%", margin: "0 auto" }}>
-      <ChangeColours />
+      <DigitalClock />
     </div>
   );
 }
